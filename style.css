@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(17, 16, 16);
+}
+
+*{
+    color: aliceblue;
+}
+#update{
+    display: none;
+}
+
+h2{
+    color: rgb(248, 14, 14);
+    text-shadow: 2px 2px rgb(177, 161, 161);
+}
+#table th{
+    color: rgb(240, 5, 5);
+    text-shadow: 2px 2px rgb(177, 161, 161);
+}
